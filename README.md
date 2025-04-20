@@ -1,0 +1,2 @@
+# AI-medimira
+HACKATHON 
